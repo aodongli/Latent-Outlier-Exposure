@@ -1,4 +1,4 @@
-This repository provides a PyTorch implementation of **Latent Outlier Exposure for Anomaly Detection with Contaminated Data**.
+This repository provides additional PyTorch implementation of **Latent Outlier Exposure for Anomaly Detection with Contaminated Data**(<https://arxiv.org/abs/2202.08088>). See also <https://github.com/boschresearch/LatentOE-AD>.
 
 # Toy Example
 
